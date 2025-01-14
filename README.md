@@ -1,6 +1,6 @@
 # Data-Professionals-Survey
 A survey done on various data professionals.
-This repository has a Power BI report made based on a survey carried out on a number of data professionals.
+This repository has a Power BI report, based on a survey carried out on a number of data professionals.
 It is a simple yet informative dashboard providing informations listed below:
 - The Average salary across different professions in the field.
 - The Preferred coding language by these professionals.
